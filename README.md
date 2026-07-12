@@ -25,3 +25,5 @@ brew uninstall decibri-cli
 ## Available tools
 
 - `decibri-cli`: audio capture, playback, and device listing from the terminal. See the [decibri CLI documentation](https://decibri.com/docs/apis/cli).
+
+## License
