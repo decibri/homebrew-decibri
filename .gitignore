@@ -1,0 +1,19 @@
+# Local operations notes (machine-local, not published)
+CLAUDE.local.md
+
+# Verification scratch: release assets downloaded to check hashes.
+# The tap only holds formulae; it never commits binaries or archives.
+*.tar.gz
+*.zip
+SHA256SUMS
+
+# Editor and IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS cruft
+.DS_Store
+Thumbs.db
+Desktop.ini
